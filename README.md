@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Rishabh Patel Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Rishabh Patel  
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
